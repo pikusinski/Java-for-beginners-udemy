@@ -54,5 +54,6 @@ public class UpcastingDowncasting {
       //Camera camera3 = (Camera)machine4;
       //camera3.start();
 
+      //Note, can't downcast to unrelated types.
    }
 }
